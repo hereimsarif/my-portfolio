@@ -1,0 +1,13 @@
+:root {
+  --color-accent: #6366f1;
+  --color-base: #fafbfc;
+  --color-base-dark: #151522;
+  --color-card-gradient: linear-gradient(135deg,#fff 60%,#e0e7ff 100%);
+}
+
+.dark {
+  --color-accent: #818cf8;
+  --color-base: #151522;
+  --color-base-dark: #181926;
+  --color-card-gradient: linear-gradient(135deg,#232333 55%,#272d4c 100%);
+}
